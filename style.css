@@ -1,0 +1,19 @@
+h5 {
+    font-weight: normal;
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+    arial,sans-serif
+    cursor: pointer;
+}
+
+.column_1{
+    float: left;
+    width: 25%;
+}
+
+.column_2{
+    float: left;
+    width: 25%;
+}
